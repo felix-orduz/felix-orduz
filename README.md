@@ -29,6 +29,13 @@ My work is driven by a love for problem-solving and the challenge of creating ro
 - **Containerization:** Docker, Kubernetes
 - **Scripting & Automation:** Bash, PowerShell
 
+## 📜 Certifications
+
+- **AWS Certified Solutions Architect – Associate**  
+  ![AWS Solutions Architect Badge](https://images.credly.com/size/110x110/images/8e2f8c85-d6e7-4d51-8d36-ec62b5dcef19/AWS-SolArchitect-Associate-2020.png)
+
+You can view my verified certification on [Credly](https://www.credly.com/badges/6c7e2788-ea8e-4941-a7c5-5aa233b05c82).
+
 ## 📈 GitHub Stats
 
 ![Félix Orduz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felix-orduz&show_icons=true&theme=radical)
