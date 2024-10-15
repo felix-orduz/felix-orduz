@@ -31,6 +31,10 @@ My work is driven by a love for problem-solving and the challenge of creating ro
 
 ## 📜 Certifications
 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 - **AWS Certified Solutions Architect – Associate**  
   ![AWS Solutions Architect Badge](https://images.credly.com/size/110x110/images/8e2f8c85-d6e7-4d51-8d36-ec62b5dcef19/AWS-SolArchitect-Associate-2020.png)
 
