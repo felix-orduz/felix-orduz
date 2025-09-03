@@ -11,6 +11,9 @@ My work is driven by a love for problem-solving and the challenge of creating ro
 
 ## 🎓 Education
 
+- **Universidad De Los Andes**
+  - *Master in software engineering*
+  
 - **Universidad Jorge Tadeo Lozano**
   - *Specialist in Database Development*
 
